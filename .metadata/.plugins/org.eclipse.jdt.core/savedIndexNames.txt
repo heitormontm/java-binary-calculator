@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\heito\OneDrive\Documentos\Projetos\CodigosJava\binary-calculator\.metadata\.plugins\org.eclipse.jdt.core
+567738009.index
+2776486512.index
+1865797976.index
